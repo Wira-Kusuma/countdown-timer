@@ -1,0 +1,18 @@
+*{
+  font-family: 'Red Hat Text',Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --Grayish-blue: hsl(237, 18%, 59%);
+  --Soft-red: hsl(345, 95%, 68%);
+  --Very-dark-blue: hsl(235, 16%, 14%);
+  --Very-dark--blue: hsl(234, 17%, 12%)
+}
+
+body {
+  background-image: url(/public/images/bg-stars.svg);
+  background-color: var(--Very-dark-blue);
+}

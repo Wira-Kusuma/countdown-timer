@@ -83,7 +83,9 @@ function Main() {
 function Footer(){
   return(
     <footer>
-      
+      <img src="/images/icon-facebook.svg" alt="facebook social icon" />
+      <img src="/images/icon-pinterest.svg" alt="pinterest social icon" />
+      <img src="/images/icon-instagram.svg" alt="instagram social icon" />
     </footer>
   )
 }
